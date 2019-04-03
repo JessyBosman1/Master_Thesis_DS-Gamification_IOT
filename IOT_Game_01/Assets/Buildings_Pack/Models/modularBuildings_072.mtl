@@ -1,14 +1,3 @@
-#
-## Alias OBJ Material File
-# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
-
-newmtl FrontColor
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Roof
-Ka 0.000000 0.000000 0.000000
-Kd 0.266667 0.266667 0.266667
-Ks 0.330000 0.330000 0.330000
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e86c8e2bacd913fd5e11476943d36d3c79f2bd22a1282920faf04b962c6bb93e
+size 323

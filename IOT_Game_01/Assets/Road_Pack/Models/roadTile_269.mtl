@@ -1,14 +1,3 @@
-#
-## Alias OBJ Material File
-# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
-
-newmtl Stone
-Ka 0.000000 0.000000 0.000000
-Kd 0.847059 0.827451 0.749020
-Ks 0.330000 0.330000 0.330000
-
-newmtl Asphalt
-Ka 0.000000 0.000000 0.000000
-Kd 0.411765 0.411765 0.411765
-Ks 0.330000 0.330000 0.330000
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:028d8d9a7016c58b06f18df7089aaeb23f25e97b1d384641d327a18c033f6776
+size 321

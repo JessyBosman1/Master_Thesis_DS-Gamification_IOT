@@ -1,9 +1,3 @@
-#
-## Alias OBJ Material File
-# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
-
-newmtl Brick
-Ka 0.000000 0.000000 0.000000
-Kd 0.917647 0.898039 0.811765
-Ks 0.330000 0.330000 0.330000
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:736f03f57d1988a0738a3b3651a9bd2c1e2594606a54f814408a994118fcdf3d
+size 210
