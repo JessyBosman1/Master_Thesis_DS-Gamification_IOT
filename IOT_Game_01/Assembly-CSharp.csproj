@@ -61,8 +61,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\cameraMovement.cs" />
-    <Compile Include="Assets\playerMovement.cs" />
+    <Compile Include="Assets\canvasBehaviour.cs" />
+    <Compile Include="Assets\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
+    <Compile Include="Assets\Scripts\Bars\barManager.cs" />
+    <Compile Include="Assets\Scripts\Bars\NeedsManager.cs" />
+    <Compile Include="Assets\Scripts\cameraMovement.cs" />
+    <Compile Include="Assets\Scripts\playerMovement.cs" />
+    <Compile Include="Assets\Scripts\sunCycle.cs" />
+    <Compile Include="Assets\Scripts\Temperature\displayTemperature.cs" />
+    <Compile Include="Assets\Scripts\Temperature\playerTemperature.cs" />
+    <Compile Include="Assets\Scripts\toggleLight.cs" />
+    <Compile Include="Assets\Scripts\toggleTopFloor.cs" />
+    <Compile Include="Assets\turnToCamera.cs" />
     <None Include="Assets\Road_Pack\Convert\Three.js (Blender)\readme.txt" />
     <None Include="Assets\Buildings_Pack\Tools\Three.js (Blender)\readme.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
